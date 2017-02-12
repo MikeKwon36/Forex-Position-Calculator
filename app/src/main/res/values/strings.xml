@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Position Calculator</string>
+    <string name="action_settings">Settings</string>
+    <string name="title">Forex Position Calculator</string>
+    <array name="Position">
+        <item>Long</item>
+        <item>Short</item>
+    </array>
+
+</resources>
